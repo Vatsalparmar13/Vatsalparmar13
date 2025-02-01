@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a BCA student with a passion for Android development. I specialize in creating mobile applications using Java and Android Studio, with experience in Firebase integration, user authentication,and I have experience working with APIs to integrate dynamic content into apps. I am always eager to expand my knowledge and skills in mobile app development and other programming languages.
+I am a BCA student with a passion for Android development. I specialize in creating mobile applications using Java and Android Studio, with experience in Firebase Integration and I have experience working with APIs to integrate dynamic content into apps. I am always eager to expand my knowledge and skills in mobile app development and other programming languages.
 
 
 ## 🌐 Socials:
