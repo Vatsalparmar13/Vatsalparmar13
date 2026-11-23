@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am currently pursuing an M.Sc. in Cyber Security & Digital Forensics at Gujarat University, with a strong interest in Digital Forensics, Incident Response (DFIR), and Cybersecurity. I enjoy exploring cybersecurity, investigating digital evidence, analyzing security incidents, and working with security tools to understand and defend against cyber threats.
-🔍 Interested in Digital Forensics, Incident Response, SOC Operations, Network Security, and Threat Analysis.<br><br>🛠️ Hands-on experience with tools like Autopsy, FTK, Volatility, Wireshark, Nmap, Wazuh, and VMware.
-🎯 Always eager to learn new technologies, improve my practical skills, and explore real-world cybersecurity challenges.
+<br>🔍 Interested in Digital Forensics, Incident Response, SOC Operations, Network Security, and Threat Analysis.<br>🛠️ Hands-on experience with tools like Autopsy, FTK, Volatility, Wireshark, Nmap, Wazuh, and VMware.
+<br>🎯 Always eager to learn new technologies, improve my practical skills, and explore real-world cybersecurity challenges.
 
 
 ## 🌐 Socials:
