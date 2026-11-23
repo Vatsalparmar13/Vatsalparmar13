@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a BCA student with a passion for Android development. I specialize in creating mobile applications using Java and Android Studio, with experience in Firebase Integration and I have experience working with APIs to integrate dynamic content into apps.
+I am currently pursuing an M.Sc. in Cyber Security & Digital Forensics at Gujarat University, with a strong interest in Digital Forensics, Incident Response (DFIR), and Cybersecurity.<br><br>I enjoy exploring cybersecurity, investigating digital evidence, analyzing security incidents, and working with security tools to understand and defend against cyber threats.<br><br>🔍 Interested in Digital Forensics, Incident Response, SOC Operations, Network Security, and Threat Analysis.<br><br>🛠️ Hands-on experience with tools like Autopsy, FTK, Volatility, Wireshark, Nmap, Wazuh, and VMware.<br><br>🎯 Always eager to learn new technologies, improve my practical skills, and explore real-world cybersecurity challenges.
 
 
 ## 🌐 Socials:
@@ -10,9 +10,12 @@ I am a BCA student with a passion for Android development. I specialize in creat
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vatsalparmar13&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vatsalparmar13&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsalparmar13&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Vatsalparmar13&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Vatsalparmar13&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vatsalparmar13&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Vatsalparmar13&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vatsalparmar13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
