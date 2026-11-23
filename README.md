@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently pursuing an M.Sc. in Cyber Security & Digital Forensics at Gujarat University, with a strong interest in Digital Forensics, Incident Response (DFIR), and Cybersecurity.<br><br>I enjoy exploring cybersecurity, investigating digital evidence, analyzing security incidents, and working with security tools to understand and defend against cyber threats.<br><br>🔍 Interested in Digital Forensics, Incident Response, SOC Operations, Network Security, and Threat Analysis.<br><br>🛠️ Hands-on experience with tools like Autopsy, FTK, Volatility, Wireshark, Nmap, Wazuh, and VMware.<br><br>🎯 Always eager to learn new technologies, improve my practical skills, and explore real-world cybersecurity challenges.
+I am currently pursuing an M.Sc. in Cyber Security & Digital Forensics at Gujarat University, with a strong interest in Digital Forensics, Incident Response (DFIR), and Cybersecurity. I enjoy exploring cybersecurity, investigating digital evidence, analyzing security incidents, and working with security tools to understand and defend against cyber threats.
+🔍 Interested in Digital Forensics, Incident Response, SOC Operations, Network Security, and Threat Analysis.<br><br>🛠️ Hands-on experience with tools like Autopsy, FTK, Volatility, Wireshark, Nmap, Wazuh, and VMware.
+🎯 Always eager to learn new technologies, improve my practical skills, and explore real-world cybersecurity challenges.
 
 
 ## 🌐 Socials:
@@ -14,10 +16,5 @@ I am currently pursuing an M.Sc. in Cyber Security & Digital Forensics at Gujara
 ![](https://streak-stats.demolab.com/?user=Vatsalparmar13&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vatsalparmar13&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Vatsalparmar13&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vatsalparmar13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
